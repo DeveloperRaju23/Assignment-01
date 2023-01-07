@@ -68,10 +68,6 @@
     margin-bottom: 100px;
 
 }
-.about-right-text{
-
-}
-
 .about-title{
     font-size: 46px;
     margin-bottom: 24px;
@@ -96,9 +92,6 @@
 
 .about-right-text ul{
     list-style: none;
-}
-.about-right-text ul li{
-
 }
 .about-right-text ul li a{
     font-size: 18px;
@@ -306,3 +299,5 @@ img{
 .footer-icon img{
     margin: 6px;
 }
+
+/* All Code Css  Ends  */
